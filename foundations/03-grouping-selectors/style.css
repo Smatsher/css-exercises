@@ -1,0 +1,12 @@
+.first-choice {
+    background-color: black;
+    color: white;
+}
+.another-choice {
+    background-color: yellow;
+}
+.first-choice,
+.another-choice {
+    font-size: 28px;
+    font-family: 'Time New Roman', Helvetica, sans-serif;
+}
